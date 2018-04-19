@@ -1,6 +1,6 @@
 
 export function createMagicNumber(startingNumber){
-  
+
     startingNumber ++;
     startingNumber *= 3
     startingNumber *= 5;
